@@ -1,0 +1,8 @@
+{
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "prettier.semi": false,
+  "prettier.configPath": "./.prettierrc",
+  "prettier.prettierPath": "./node_modules/prettier"
+}
